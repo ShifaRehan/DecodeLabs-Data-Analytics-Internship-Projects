@@ -16,7 +16,7 @@ Welcome to my Data Analytics Internship Projects repository.
 | Project | Topic | Status |
 |---------|-------|--------|
 | Project 1 | Data Cleaning & Preparation | ✅ Completed |
-| Project 2 | Coming Soon | ⏳ |
+| Project 2 | Exploratory Data Analysis (EDA) | ✅ Completed |
 | Project 3 | Coming Soon | ⏳ |
 | Project 4 | Coming Soon | ⏳ |
 
