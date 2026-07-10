@@ -12,6 +12,7 @@ This repository documents my internship journey through a series of hands-on pro
 |-----------|-------------|
 | **Name** | Shifa Rehan |
 | **Role** | Data Analytics Intern |
+| **Internship Duration** | **27 June 2026 – 27 July 2026** |
 | **Organization** | DecodeLabs |
 | **Tools & Technologies** | Python, Pandas, NumPy, Matplotlib, Jupyter Notebook |
 
