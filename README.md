@@ -24,7 +24,7 @@ This repository documents my internship journey through a series of hands-on pro
 |---------|-------|-------------|--------|
 | **Project 01** | Data Cleaning & Preparation | Cleaned and prepared a raw dataset by handling missing values, removing duplicates, and correcting data formats. | ✅ Completed |
 | **Project 02** | Exploratory Data Analysis (EDA) | Explored the cleaned dataset using descriptive statistics and visualizations to identify trends, patterns, and outliers. | ✅ Completed |
-| **Project 03** | Coming Soon | The next project will be added after completion. | ⏳ |
+| **Project 03** | SQL Data Analysis | Analyzed the cleaned dataset using MySQL by writing SQL queries to extract business insights, evaluate product performance, analyze customer behavior, and generate actionable recommendations. | ✅ Completed |
 | **Project 04** | Coming Soon | The next project will be added after completion. | ⏳ |
 
 ---
