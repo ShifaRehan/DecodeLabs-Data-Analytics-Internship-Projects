@@ -167,7 +167,7 @@ Verified the dataset before analysis.
 - Validated important fields
 - Ensured data consistency
 
-![Data Quality Assessment Analysis](screenshots/data_quality_check_analysis.png)
+![Data Quality Assessment Analysis](screenshots/data_quality_check.png)
 
 ---
 
