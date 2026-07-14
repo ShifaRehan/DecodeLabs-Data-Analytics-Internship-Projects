@@ -1,6 +1,6 @@
 # 🗃️ Project 03: SQL Data Analysis
 
-> **DecodeLabs Data Analytics Internship — Project 03**  
+> **DecodeLabs Data Analytics Internship - Project 03**  
 > *Batch 2026 | Industrial Training Kit*
 
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
@@ -275,6 +275,8 @@ Evaluated promotional campaign effectiveness by analyzing:
 - Coupon Usage
 - Revenue Generated through Coupons
 
+![Coupon code analysis](screenshots/coupon_code_analysis.png)
+
 ---
 
 ## 📅 11. Monthly Revenue Analysis
@@ -343,34 +345,6 @@ Project-03-SQL-Data-Analysis/
     ├── referral_source_analysis.png
     ├── customer_analysis.png
     └── monthly_revenue_analysis.png
-```
-
----
-
-# 📷 Project Screenshots
-
-## SQL Queries
-
-Include screenshots of important SQL queries.
-
-```markdown
-![SQL Queries](screenshots/sql_queries.png)
-```
-
----
-
-## Query Results
-
-Include screenshots of query outputs.
-
-```markdown
-![Revenue Analysis](screenshots/revenue_analysis.png)
-
-![Product Analysis](screenshots/product_analysis.png)
-
-![Customer Analysis](screenshots/customer_analysis.png)
-
-![Monthly Revenue](screenshots/monthly_revenue_analysis.png)
 ```
 
 ---
