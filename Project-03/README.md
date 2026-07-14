@@ -8,6 +8,8 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Internship](https://img.shields.io/badge/DecodeLabs-Internship-red?style=for-the-badge)
 
+![Project 03: SQL Data Analysis](screenshots/title_image.png)
+
 ---
 
 # 📖 Project Overview
