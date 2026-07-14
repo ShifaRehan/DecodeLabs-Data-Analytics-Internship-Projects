@@ -153,6 +153,8 @@ Understanding the dataset before beginning the analysis.
 - Examined table structure
 - Reviewed column names and data types
 
+![Data Exploration](screenshots/data_exploration.png)
+
 ---
 
 ## 🧹 2. Data Quality Assessment
@@ -164,6 +166,8 @@ Verified the dataset before analysis.
 - Checked missing values
 - Validated important fields
 - Ensured data consistency
+
+![Data Quality Assessment Analysis](screenshots/data_quality_check_analysis.png)
 
 ---
 
@@ -179,6 +183,8 @@ Calculated key business metrics including:
 - Average Order Value
 - Total Revenue
 
+![Business Statistics](screenshots/business_statistic.png)
+
 ---
 
 ## 💰 4. Revenue Analysis
@@ -189,6 +195,8 @@ Analyzed overall business performance by calculating:
 - Average Revenue
 - Revenue Contribution
 - Highest Revenue Products
+
+![Revenue Analysis](screenshots/revenue_analysis.png)
 
 ---
 
@@ -201,6 +209,8 @@ Analyzed product performance by identifying:
 - Average Selling Price
 - Average Quantity Sold
 
+![Product Analysis](screenshots/product_analysis.png)
+
 ---
 
 ## 👥 6. Customer Analysis
@@ -210,6 +220,8 @@ Identified:
 - Top 10 Customers
 - Repeat Customers
 - Highest Spending Customers
+
+![Customer Analysis](screenshots/customer_analysis.png)
 
 ---
 
@@ -221,6 +233,8 @@ The analysis determined:
 
 - Most Frequently Used Payment Method
 - Orders by Payment Type
+
+![Payment Method Analysis](screenshots/payment_method_analysis.png)
 
 ---
 
@@ -236,6 +250,8 @@ Status categories included:
 
 This analysis helped identify operational areas requiring improvement.
 
+![Order Status Analysis](screenshots/order_status_analysis.png)
+
 ---
 
 ## 📣 9. Referral Source Analysis
@@ -247,6 +263,8 @@ Metrics included:
 - Number of Orders
 - Revenue Generated
 - Best Performing Referral Source
+
+![Referral Source Analysis](screenshots/referral_source_analysis.png)
 
 ---
 
@@ -265,6 +283,8 @@ Calculated monthly sales trends to identify:
 
 - Highest Revenue Month
 - Monthly Sales Distribution
+
+![Monthly Revenue](screenshots/monthly_revenue_analysis.png)
 
 ---
 
