@@ -170,9 +170,9 @@ A good dashboard isn't a pile of charts, it's a set of answers. This one was bui
 
 ```
 📁 sales-analytics-dashboard/
-├── 📘 Data_Analytics_Project_4.pdf     → You are here
-├── 📊 Project 4 dashboard              → The interactive Power BI dashboard (main deliverable)
-└── 📄 README.md                        → Official project brief & data-visualization playbook from DecodeLabs
+├── 📘 Cleaned_dataset.csv                   
+├── 📊 Project 4 dashboard.pbix            
+└── 📄 README.md                           
 └──    assets
 ```
 
