@@ -1,10 +1,11 @@
-# 📊 Sales Analytics Dashboard
+# 📊 Interactive Sales Analytics Dashboard
 ### Data Analytics Internship — Project 4: Data Visualization | DecodeLabs
 
 > **Turning raw sales numbers into a story anyone can understand in 5 seconds.**
 
 This repository contains my fourth and final project from my **Data Analytics Internship at DecodeLabs**. It's an interactive **Power BI dashboard** that takes a messy pile of e-commerce order data and turns it into a clean, single-screen report that answers the questions a business owner actually cares about *"How much did we sell? Who's buying? What's going wrong, and where's the money we're losing?"*
 
+![Project 04: Data Visualization](assets/dashboard_screenshot.png)
 ---
 
 ## 🧠 What This Project Is
@@ -172,6 +173,7 @@ A good dashboard isn't a pile of charts, it's a set of answers. This one was bui
 ├── 📘 Data_Analytics_Project_4.pdf     → You are here
 ├── 📊 Project 4 dashboard              → The interactive Power BI dashboard (main deliverable)
 └── 📄 README.md                        → Official project brief & data-visualization playbook from DecodeLabs
+└──    assets
 ```
 
 ---
@@ -205,8 +207,8 @@ If you'd like to know more about this project or my work as a Data Analyst, feel
 
 - **GitHub:** *[https://github.com/ShifaRehan]*
 - **LinkedIn:** *[www.linkedin.com/in/shifa-rehan]*
-- **Email:** *[shifaraehan19@gmail.com]*
+- **Email:** *[shifarehan19@gmail.com]*
 
 ---
 
-⭐ *If you found this project interesting, consider giving this repository a star — it helps a lot as I continue building my data analytics portfolio!*
+⭐ *If you found this project interesting, consider giving this repository a star, it helps a lot as I continue building my data analytics portfolio!*
